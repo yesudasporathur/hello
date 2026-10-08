@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yesudas</h1>
-<h3 align="center">A passionate full stack developer currently based in Cambridge, UK. I recently graduated MSc Cyber Security. I have 4+ years of experience in full stack development and 5+ years in customer support. Currently, looking for a full time position in a competitive role which helps to enlarge my expertise and be on top in the market. Feel free to contact me about my ongoing ventures and career plan.</h3>
+<h3 align="center">A passionate full stack developer currently based in Cambridge, UK. I recently graduated MSc Cyber Security. I have 4+ years of experience in full stack development and 5+ years in customer support. Currently, looking for a full time position evolving around software engineering as well as Cyber Security in a competitive role which helps to enlarge my expertise and be on top in the market. Feel free to contact me about my ongoing ventures and career plan.</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/yesudasporathur](github.com/yesudasporathur)
 
